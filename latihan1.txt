@@ -2,4 +2,4 @@ Belajar git
 - Belajar membuat web
 - Belajar membuat aplikasi android
 - Belajar desain UI
-- Belajar membuat aplikasi
+- Belajar membuat
